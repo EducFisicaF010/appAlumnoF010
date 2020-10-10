@@ -1,7 +1,7 @@
 {
     "name": "F010Alumno",
     "short_name": "F010Alumno",
-    "start_url": "?utm_source=web_app_manifest",
+    "start_url": "./?utm_source=web_app_manifest",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff",
