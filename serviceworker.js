@@ -18,7 +18,7 @@ var filesToCache = [
     './assets/css/styles.min.css?h=724f62978eaa80b00081f071d6e30448',
     './js/lok.js',
     /* code */
-    'https://ef010.000webhostapp.com/api/users',
+    //'https://ef010.000webhostapp.com/api/users',
 ];
 
 // Cache on install
